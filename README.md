@@ -1,5 +1,7 @@
 # Automated Resume Screening
 
+![image](https://github.com/user-attachments/assets/a2b56059-9a0e-45ca-99bd-a0492c46859d)
+
 The **Automated Resume Screening** app uses Python and machine learning to automate the process of screening resumes for job applications. The model analyzes resumes and ranks them based on their relevance to a job description, helping recruiters streamline their hiring process.
 
 ## Features
